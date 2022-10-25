@@ -1,0 +1,77 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.leftSide {
+  display: block;
+  width: 40%;
+  position: absolute;
+  left: 0;
+  margin: 50px 250px;
+  padding: 5px;
+}
+
+.rightSide {
+  display: block;
+  width: 30%;
+  position: absolute;
+  right: 0;
+  margin: 50px 250px;
+  padding: 5px;
+}
+
+.named {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 29px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+select {
+  width: 300px;
+  height: 50px;
+  font-size: 17px;
+  font-family: 'Ubuntu', sans-serif;
+  border-color: #cccccc;
+}
+
+select:hover {
+  border-color: #0086f8;
+}
+
+select:visited {
+  border-color: #0086f8;
+}
+
+option:hover {
+  background-color: #0086f8;
+}
+
+.opacityTxt {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+  color: #999999;
+}
+
+.company {
+  margin: 50px 0 100px 0;
+}
+
+.companyName {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.companyAdd {
+  margin-top: -10px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 19px;
+}
+
+a {
+  color: #0086f8;
+  text-decoration: none;
+}

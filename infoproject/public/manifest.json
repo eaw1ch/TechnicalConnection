@@ -1,0 +1,8 @@
+{
+  "short_name": "Система подачи заявок",
+  "name": "Система подачи заявок на технологическое присоединение",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

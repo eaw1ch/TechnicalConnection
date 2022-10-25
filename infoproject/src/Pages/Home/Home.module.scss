@@ -1,0 +1,54 @@
+.container {
+  display: block;
+  width: 55%;
+  position: absolute;
+  left: 0;
+  margin: 50px 250px;
+  padding: 5px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.named {
+  font-size: 29px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.named2 {
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.animation {
+  color: #0086f8;
+  font-weight: bold;
+}
+
+.rules {
+  font-size: 17px;
+}
+
+.stringInfo {
+  display: flex;
+  flex-direction: row;
+}
+
+.info {
+  margin-top: 50px;
+}
+
+.combine {
+  display: block;
+  width: 15%;
+  font-size: 20px;
+  padding-right: 100px;
+  padding-left: 50px;
+  text-align: center;
+  justify-content: center;
+}
+
+.opacityTxt {
+  color: #999999;
+  margin: 0 auto;
+}
